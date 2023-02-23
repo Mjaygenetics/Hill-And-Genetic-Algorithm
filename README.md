@@ -1,2 +1,2 @@
 # Hill-And-Genetic-Algorithm
-Hill Algorithm and Genetic Algorithm to solve nxn queens
+A solution to the nxn queens problem using a hill climbing approach as well as a genetic algorithm approach
